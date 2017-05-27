@@ -1,0 +1,27 @@
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\bin\Debug\Graphics3.exe.config
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\bin\Debug\Graphics3.exe
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\bin\Debug\Graphics3.pdb
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\obj\Debug\Graphics3.csprojResolveAssemblyReference.cache
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\obj\Debug\Graphics3.Form1.resources
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\obj\Debug\Graphics3.Properties.Resources.resources
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\obj\Debug\Graphics3.csproj.GenerateResource.Cache
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\obj\Debug\Graphics3.exe
+C:\Users\Valdis\documents\visual studio 2017\Projects\Graphics3\Graphics3\obj\Debug\Graphics3.pdb
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\bin\Debug\Graphics3.exe.config
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\bin\Debug\Graphics3.exe
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\bin\Debug\Graphics3.pdb
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\obj\Debug\Graphics3.csprojResolveAssemblyReference.cache
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\obj\Debug\Graphics3.Form1.resources
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\obj\Debug\Graphics3.Properties.Resources.resources
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\obj\Debug\Graphics3.csproj.GenerateResource.Cache
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\obj\Debug\Graphics3.exe
+C:\Users\Valdis\Documents\Visual Studio 2017\Projects\Graphics3 1\Graphics3\obj\Debug\Graphics3.pdb
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\bin\Debug\Graphics3.exe.config
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\bin\Debug\Graphics3.exe
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\bin\Debug\Graphics3.pdb
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\obj\Debug\Graphics3.csprojResolveAssemblyReference.cache
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\obj\Debug\Graphics3.Form1.resources
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\obj\Debug\Graphics3.Properties.Resources.resources
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\obj\Debug\Graphics3.csproj.GenerateResource.Cache
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\obj\Debug\Graphics3.exe
+E:\!vova\Disk\Универ\Net_технология\лабы\Graphics3 1\Graphics3\obj\Debug\Graphics3.pdb
